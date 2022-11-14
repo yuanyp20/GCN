@@ -4,7 +4,7 @@
 pytorch 1.9
 
 ## How to run 10 independent experiments at a time？ 
-<br>Classification and regression tasks:
+<br>Classification and regression tasks:<br>
 Classification task: bash start_py_1.sh<br>
 Regression task: Be the same as the above
 
